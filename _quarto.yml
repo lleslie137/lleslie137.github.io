@@ -8,7 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Project.qmd
+        text: Project
+      - href: Game.qmd
+        text: Game
+      
 
 format:
   html:

@@ -1,0 +1,27 @@
+---
+title: "Project"
+---
+#Bullet hell game for Object Oriented Programming in Java
+
+##Introduction
+
+This report aims to shed light on the development and conceptualization of a game engine designed specifically for a 2D top-down shooter game, utilising the principles of Object-Oriented Programming (OOP). The project's genesis was inspired by the desire to create a dynamic and engaging game that could be easily modified and extended, embodying the core principles of reusability and modularity that OOP offers. This report will provide an overview of the game engine project, highlighting the significance of OOP in its development process, and outlining the features and functionalities that have been incorporated to support the envisioned game idea.
+
+The inception of this game engine project was driven by the ambition to craft a game that not only entertains but also demonstrates the powerful capabilities of OOP in game development. A 2D top-down shooter game presents a unique set of challenges and requirements, from managing game states to handling complex interactions between various game elements. The game engine is thus designed to address these needs, facilitating a seamless and immersive gaming experience. By leveraging OOP principles, the engine is structured around objects representing game entities, behaviours, and environments, allowing for a high degree of flexibility and scalability in game design and development.
+
+The importance of OOP in this context cannot be overstated. OOP provides a framework for organising code in a way that is both intuitive and efficient, enabling developers to create systems that are easier to debug, maintain, and expand upon. For a game engine, 
+
+Therefore, the development of this game engine represents a significant endeavour in exploring the potential of OOP in game creation. Through this report, we aim to provide a comprehensive overview of the project, from its conception to its current state, highlighting the pivotal role of OOP in shaping the architecture and functionality of the game engine. Our journey through the design and implementation of this engine illuminates the path for future developments, offering insights and learnings that could benefit other projects within the realm of game development.
+
+
+Game Screenshots
+
+
+Homepage
+
+![Homepage](images/BHhome.png)
+
+
+Game page
+
+![Gameplay](images/BH.png)
