@@ -7,4 +7,8 @@ output: html_document
 
 # Welcome to My Quarto Page
 
-This is a sample Quarto document.
+ 
+(![](images/Plane.png)
+Leslie
+Year 1 student of Applied Artificial Intelligence
+Singapore Institute of Technology
