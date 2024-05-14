@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "My Quarto Profile Assignment",
     "section": "",
-    "text": "Leslie\nYear 1 student of Applied Artificial Intelligence\nSingapore Institute of Technology\n\n\n\n\n\nI have start playing rubik’s cube from 8 years old\n\n\n\n\n\n\n\n3x3\n\n\n\n4x4\n\n\n\n5x5\n\n\n\npyramid\n\n\n\n\n\n\n\nAt this point, gaming is not just one of my hobbies, it is part of my daily life.\nI play alot of games, includes and not limited to card games, Moba, RTS, puzzle games Here are my favorite games for each categories:\n\n\n\n\n\n\n\n\nGame Category\nGame 1\nGame 2\n\n\n\n\nRPG\n\n\n\n\nMOBA\n\n\n\n\nRTS"
+    "text": "Leslie (yes i dont have last name)\nYear 1 student of Applied Artificial Intelligence\nSingapore Institute of Technology  Github| Linkedin"
   },
   {
     "objectID": "Project.html",
@@ -16,9 +16,9 @@
   {
     "objectID": "Games.html",
     "href": "Games.html",
-    "title": "About",
+    "title": "Recreational Activities",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I have start playing rubik’s cube from 8 years old, I am not speed cuber even until now, but it has become my favorite gadget toy since then.\n\n\n\n\n\n\n\n3x3\n\n\n\n4x4\n\n\n\n5x5\n\n\n\npyramid\n\n\n\n\n\n\n\nAt this point, gaming is not just one of my hobbies, it is part of my daily life.\nI play alot of games, includes and not limited to card games, Moba, RTS, puzzle games Here are my favorite games for each categories:\n\n\n\n\n\n\n\n\nGame Category\nGame 1\nGame 2\n\n\n\n\nRPG\n\n\n\n\nMOBA\n\n\n\n\nRTS"
   },
   {
     "objectID": "index.html#profile",
@@ -47,5 +47,61 @@
     "title": "Bullet hell game for Object Oriented Programming in Java",
     "section": "",
     "text": "This report aims to shed light on the development and conceptualization of a game engine designed specifically for a 2D top-down shooter game, utilising the principles of Object-Oriented Programming (OOP). The project’s genesis was inspired by the desire to create a dynamic and engaging game that could be easily modified and extended, embodying the core principles of reusability and modularity that OOP offers. This report will provide an overview of the game engine project, highlighting the significance of OOP in its development process, and outlining the features and functionalities that have been incorporated to support the envisioned game idea.\nThe inception of this game engine project was driven by the ambition to craft a game that not only entertains but also demonstrates the powerful capabilities of OOP in game development. A 2D top-down shooter game presents a unique set of challenges and requirements, from managing game states to handling complex interactions between various game elements. The game engine is thus designed to address these needs, facilitating a seamless and immersive gaming experience. By leveraging OOP principles, the engine is structured around objects representing game entities, behaviours, and environments, allowing for a high degree of flexibility and scalability in game design and development.\nThe importance of OOP in this context cannot be overstated. OOP provides a framework for organising code in a way that is both intuitive and efficient, enabling developers to create systems that are easier to debug, maintain, and expand upon. For a game engine,\nTherefore, the development of this game engine represents a significant endeavour in exploring the potential of OOP in game creation. Through this report, we aim to provide a comprehensive overview of the project, from its conception to its current state, highlighting the pivotal role of OOP in shaping the architecture and functionality of the game engine. Our journey through the design and implementation of this engine illuminates the path for future developments, offering insights and learnings that could benefit other projects within the realm of game development.\nGame Screenshots\nHomepage\n\n\n\nHomepage\n\n\nGame page\n\n\n\nGameplay"
+  },
+  {
+    "objectID": "Games.html#rubiks-cube",
+    "href": "Games.html#rubiks-cube",
+    "title": "Recreational Activities",
+    "section": "",
+    "text": "I have start playing rubik’s cube from 8 years old, I am not speed cuber even until now, but it has become my favorite gadget toy since then.\n\n\n\n\n\n\n\n3x3\n\n\n\n4x4\n\n\n\n5x5\n\n\n\npyramid"
+  },
+  {
+    "objectID": "Games.html#gaming",
+    "href": "Games.html#gaming",
+    "title": "Recreational Activities",
+    "section": "",
+    "text": "At this point, gaming is not just one of my hobbies, it is part of my daily life.\nI play alot of games, includes and not limited to card games, Moba, RTS, puzzle games Here are my favorite games for each categories:\n\n\n\n\n\n\n\n\nGame Category\nGame 1\nGame 2\n\n\n\n\nRPG\n\n\n\n\nMOBA\n\n\n\n\nRTS"
+  },
+  {
+    "objectID": "Recreational.html",
+    "href": "Recreational.html",
+    "title": "Recreational Activities",
+    "section": "",
+    "text": "I have start playing rubik’s cube from 8 years old, I am not speed cuber even until now, but it has become my favorite gadget toy since then.\n\n\n\n\n\n\n\n3x3\n\n\n\n4x4\n\n\n\n5x5\n\n\n\npyramid\n\n\n\n\n\n\n\nAt this point, gaming is not just one of my hobbies, it is part of my daily life.\nI play alot of games, includes and not limited to card games, Moba, RTS, puzzle games Here are my favorite games for each categories:\n\n\n\n\n\n\n\n\nGame Category\nGame 1\nGame 2\n\n\n\n\nRPG\n\n\n\n\nMOBA\n\n\n\n\nRTS"
+  },
+  {
+    "objectID": "Recreational.html#rubiks-cube",
+    "href": "Recreational.html#rubiks-cube",
+    "title": "Recreational Activities",
+    "section": "",
+    "text": "I have start playing rubik’s cube from 8 years old, I am not speed cuber even until now, but it has become my favorite gadget toy since then.\n\n\n\n\n\n\n\n3x3\n\n\n\n4x4\n\n\n\n5x5\n\n\n\npyramid"
+  },
+  {
+    "objectID": "Recreational.html#gaming",
+    "href": "Recreational.html#gaming",
+    "title": "Recreational Activities",
+    "section": "",
+    "text": "At this point, gaming is not just one of my hobbies, it is part of my daily life.\nI play alot of games, includes and not limited to card games, Moba, RTS, puzzle games Here are my favorite games for each categories:\n\n\n\n\n\n\n\n\nGame Category\nGame 1\nGame 2\n\n\n\n\nRPG\n\n\n\n\nMOBA\n\n\n\n\nRTS"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "My Quarto Profile Assignment",
+    "section": "1 Work Experience",
+    "text": "1 Work Experience\nNCS Sep 2021 - Apr 2022  INTERN- PRODUCT ENGINEER  Support end to end project delivery, collaborate with customer, robot vendor, and technical supports for projects.  - Tray return trial project Liaised with customer to help route planning and mapping of robot using robot’s software Diagnoses and troubleshoot issues during trial with robot’s software.  - Patrol Robot trial project Modified existing robot SDK in Java to suits client’s and trial’s requirement. Setup and maintained robot server with AWS EC2 Wrote script in Python to control robot’s video streaming service Diagnoses and troubleshoot issues during trial.  - Maintained and updated product website.  - Active participate in team agile development cycle, facilitate the scrum team to progress as planned.  - Manage daily scrum meeting  - Preparation and writing meeting minutes for biweekly sprint planning and review.  - Sorted and organized files, spreadsheets and reports."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "My Quarto Profile Assignment",
+    "section": "2 Education",
+    "text": "2 Education\n\nBachelor in Applied Artificial Intelligence Singapore Institute of Technology  2023-Now\nDiploma in Information Technology  Republic Polytechnic 2019-2022"
+  },
+  {
+    "objectID": "index.html#achievement",
+    "href": "index.html#achievement",
+    "title": "My Quarto Profile Assignment",
+    "section": "3 Achievement",
+    "text": "3 Achievement\n\nSCS SPLASH AWARDS 2021 SECOND PLACING 2021 Competed as a team of 6 and won first runner up in tertiary level of national tech innovation competition. Project: Smart Carpark\nDIRECTOR’S ROLL OF HONOUR SEM1 TO SEM3 Oct 2019 - Oct 2020"
   }
 ]

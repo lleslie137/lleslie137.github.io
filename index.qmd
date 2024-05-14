@@ -1,53 +1,63 @@
 ---
 title: "My Quarto Profile Assignment"
-author: "Leslie"
-date: "2024-05-14"
 number-sections: true
+
 
 format: 
   html:
+    theme: cosmo
     embed-resources: true
-    css : style.css
     toc: true
     page-layout: full
     grid:
       body-width: 1000px
 ---
+![Me](images/me.jpg)<br>
+Leslie (yes i dont have last name)
 
-
-# Welcome to My Quarto Page
-## Profile
-
-
-Leslie 
-
-Year 1 student of Applied Artificial Intelligence 
+Year 1 student of Applied Artificial Intelligence
 
 Singapore Institute of Technology
+<br>
+[Github](https://github.com/lleslie137/)| [Linkedin](https://www.linkedin.com/in/leslie-leslie-01bb37186/)
+
+## Work Experience
+
+NCS<br>
+Sep 2021 - Apr 2022 <br>
+INTERN- PRODUCT ENGINEER <br>
+Support end to end project delivery, collaborate with customer, robot vendor, and technical supports for projects. <br>
+- Tray return trial project 
+Liaised with customer to help route planning and mapping of robot using robot's software 
+Diagnoses and troubleshoot issues during trial with robot's software. 
+ <br>
+- Patrol Robot trial project 
+Modified existing robot SDK in Java to suits client's and trial's requirement. 
+Setup and maintained robot server with AWS EC2 Wrote script in Python to control robot's video streaming service 
+Diagnoses and troubleshoot issues during trial. 
+ <br>
+- Maintained and updated product website.  <br>
+- Active participate in team agile development cycle, facilitate the scrum team to progress as planned.  <br>
+- Manage daily scrum meeting  <br>
+- Preparation and writing meeting minutes for biweekly sprint planning and review.  <br>
+- Sorted and organized files, spreadsheets and reports. <br>
+
+## Education
+- Bachelor in Applied Artificial Intelligence<br>
+  Singapore Institute of Technology <br>
+  2023-Now<br>
+- Diploma in Information Technology <br>
+  Republic Polytechnic<br>
+  2019-2022
 
 
+## Achievement
+- SCS SPLASH AWARDS 2021 SECOND PLACING<br>
+  2021<br>
+  Competed as a team of 6 and won first runner up in tertiary level
+  of national tech innovation competition.<br> 
+  Project: Smart Carpark
 
-## Hobbies
-
-### Rubik's Cube
-I have start playing rubik's cube from 8 years old
-
-|     |                    |
-|------------------|----------------------------|
-| **3x3**          | ![3x3](images/3x3.jpeg){width=256 height=256}|
-| **4x4**         | ![4x4](images/4x4.jpeg){width=256 height=256}|
-| **5x5**          | ![5x5](images/5x5.jpg){width=256 height=256}|
-| **pyramid**          | ![Pyramid](images/pyramid.jpg){width=256 height=256}|
-
-### Gaming
-
-At this point, gaming is not just one of my hobbies, it is part of my daily life. 
-
-I play alot of games, includes and not limited to card games, Moba, RTS, puzzle games<br>
-Here are my favorite games for each categories:
-
-| Game Category    | Game 1                     | Game 2                     |
-|------------------|----------------------------|----------------------------|
-| **RPG**          | ![Genshin](images/gi.png){width=256 height=256}     | ![Perfect World](images/pw.png){width=256 height=256}     |
-| **MOBA**         | ![Dota](images/dota.png){width=256 height=256}| ![Mobile Legend](images/ml.jpg){width=256 height=256}|
-| **RTS**          | ![Warcraft III](images/w3c.jpeg){width=256 height=256}|![Starcraft2](images/sc2.jpg){width=256 height=256}|
+- DIRECTOR'S ROLL OF HONOUR SEM1 TO SEM3<br>
+  Oct 2019 - Oct 2020
+  

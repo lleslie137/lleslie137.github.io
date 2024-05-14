@@ -10,8 +10,8 @@ website:
         text: Home
       - href: Project.qmd
         text: Project
-      - href: Game.qmd
-        text: Game
+      - href: Recreational.qmd
+        text: Recreational
       
 
 format:

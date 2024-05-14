@@ -1,0 +1,27 @@
+---
+title: "Recreational Activities"
+---
+# Recreational Activities
+
+## Rubik's Cube
+I have start playing rubik's cube from 8 years old, I am not speed cuber even until now, but it has become my favorite gadget toy since then.
+
+|     |                    |
+|------------------|----------------------------|
+| **3x3**          | ![3x3](images/3x3.jpeg){width=256 height=256}|
+| **4x4**         | ![4x4](images/4x4.jpeg){width=256 height=256}|
+| **5x5**          | ![5x5](images/5x5.jpg){width=256 height=256}|
+| **pyramid**          | ![Pyramid](images/pyramid.jpg){width=256 height=256}|
+
+## Gaming
+
+At this point, gaming is not just one of my hobbies, it is part of my daily life. 
+
+I play alot of games, includes and not limited to card games, Moba, RTS, puzzle games<br>
+Here are my favorite games for each categories:
+
+| Game Category    | Game 1                     | Game 2                     |
+|------------------|----------------------------|----------------------------|
+| **RPG**          | ![Genshin](images/gi.png){width=256 height=256}     | ![Perfect World](images/pw.png){width=256 height=256}     |
+| **MOBA**         | ![Dota](images/dota.png){width=256 height=256}| ![Mobile Legend](images/ml.jpg){width=256 height=256}|
+| **RTS**          | ![Warcraft III](images/w3c.jpeg){width=256 height=256}|![Starcraft2](images/sc2.jpg){width=256 height=256}|
