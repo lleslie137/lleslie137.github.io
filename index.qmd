@@ -2,10 +2,21 @@
 title: "My Quarto Profile Assignment"
 author: "Leslie"
 date: "2024-05-14"
+number-sections: true
+
+format: 
+  html:
+    embed-resources: true
+    css : style.css
+    toc: true
+    page-layout: full
+    grid:
+      body-width: 1000px
 ---
 
+
 # Welcome to My Quarto Page
-##Profile
+## Profile
 
 
 Leslie 
@@ -16,18 +27,24 @@ Singapore Institute of Technology
 
 
 
-##Hobbies
+## Hobbies
 
-###Gaming
+### Rubik's Cube
+I have start playing rubik's cube from 8 years old
 
+|     |                    |
+|------------------|----------------------------|
+| **3x3**          | ![3x3](images/3x3.jpeg){width=256 height=256}|
+| **4x4**         | ![4x4](images/4x4.jpeg){width=256 height=256}|
+| **5x5**          | ![5x5](images/5x5.jpg){width=256 height=256}|
+| **pyramid**          | ![Pyramid](images/pyramid.jpg){width=256 height=256}|
+
+### Gaming
 
 At this point, gaming is not just one of my hobbies, it is part of my daily life. 
-I play card games, Moba, RTS, puzzle games
 
-
-#### Game Categories and Icons
-
-Here are some game categories and their respective icons:
+I play alot of games, includes and not limited to card games, Moba, RTS, puzzle games<br>
+Here are my favorite games for each categories:
 
 | Game Category    | Game 1                     | Game 2                     |
 |------------------|----------------------------|----------------------------|

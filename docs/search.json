@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "My Quarto Profile Assignment",
     "section": "",
-    "text": "Welcome to My Quarto Page\n##Profile\nLeslie\nYear 1 student of Applied Artificial Intelligence\nSingapore Institute of Technology\n##Hobbies\n###Gaming\nAt this point, gaming is not just one of my hobbies, it is part of my daily life. I play card games, Moba, RTS, puzzle games\n\nGame Categories and Icons\nHere are some game categories and their respective icons:\n\n\n\n\n\n\n\n\nGame Category\nGame 1\nGame 2\n\n\n\n\nRPG\n\n\n\n\nMOBA\n\n\n\n\nRTS"
+    "text": "Leslie\nYear 1 student of Applied Artificial Intelligence\nSingapore Institute of Technology\n\n\n\n\n\nI have start playing rubik’s cube from 8 years old\n\n\n\n\n\n\n\n3x3\n\n\n\n4x4\n\n\n\n5x5\n\n\n\npyramid\n\n\n\n\n\n\n\nAt this point, gaming is not just one of my hobbies, it is part of my daily life.\nI play alot of games, includes and not limited to card games, Moba, RTS, puzzle games Here are my favorite games for each categories:\n\n\n\n\n\n\n\n\nGame Category\nGame 1\nGame 2\n\n\n\n\nRPG\n\n\n\n\nMOBA\n\n\n\n\nRTS"
   },
   {
     "objectID": "Project.html",
     "href": "Project.html",
-    "title": "Project",
+    "title": "Bullet hell game for Object Oriented Programming in Java",
     "section": "",
-    "text": "#Bullet hell game for Object Oriented Programming in Java\n##Introduction\nThis report aims to shed light on the development and conceptualization of a game engine designed specifically for a 2D top-down shooter game, utilising the principles of Object-Oriented Programming (OOP). The project’s genesis was inspired by the desire to create a dynamic and engaging game that could be easily modified and extended, embodying the core principles of reusability and modularity that OOP offers. This report will provide an overview of the game engine project, highlighting the significance of OOP in its development process, and outlining the features and functionalities that have been incorporated to support the envisioned game idea.\nThe inception of this game engine project was driven by the ambition to craft a game that not only entertains but also demonstrates the powerful capabilities of OOP in game development. A 2D top-down shooter game presents a unique set of challenges and requirements, from managing game states to handling complex interactions between various game elements. The game engine is thus designed to address these needs, facilitating a seamless and immersive gaming experience. By leveraging OOP principles, the engine is structured around objects representing game entities, behaviours, and environments, allowing for a high degree of flexibility and scalability in game design and development.\nThe importance of OOP in this context cannot be overstated. OOP provides a framework for organising code in a way that is both intuitive and efficient, enabling developers to create systems that are easier to debug, maintain, and expand upon. For a game engine,\nTherefore, the development of this game engine represents a significant endeavour in exploring the potential of OOP in game creation. Through this report, we aim to provide a comprehensive overview of the project, from its conception to its current state, highlighting the pivotal role of OOP in shaping the architecture and functionality of the game engine. Our journey through the design and implementation of this engine illuminates the path for future developments, offering insights and learnings that could benefit other projects within the realm of game development.\nGame Screenshots\nHomepage\n\n\n\nHomepage\n\n\nGame page\n\n\n\nGameplay"
+    "text": "This report aims to shed light on the development and conceptualization of a game engine designed specifically for a 2D top-down shooter game, utilising the principles of Object-Oriented Programming (OOP). The project’s genesis was inspired by the desire to create a dynamic and engaging game that could be easily modified and extended, embodying the core principles of reusability and modularity that OOP offers. This report will provide an overview of the game engine project, highlighting the significance of OOP in its development process, and outlining the features and functionalities that have been incorporated to support the envisioned game idea.\nThe inception of this game engine project was driven by the ambition to craft a game that not only entertains but also demonstrates the powerful capabilities of OOP in game development. A 2D top-down shooter game presents a unique set of challenges and requirements, from managing game states to handling complex interactions between various game elements. The game engine is thus designed to address these needs, facilitating a seamless and immersive gaming experience. By leveraging OOP principles, the engine is structured around objects representing game entities, behaviours, and environments, allowing for a high degree of flexibility and scalability in game design and development.\nThe importance of OOP in this context cannot be overstated. OOP provides a framework for organising code in a way that is both intuitive and efficient, enabling developers to create systems that are easier to debug, maintain, and expand upon. For a game engine,\nTherefore, the development of this game engine represents a significant endeavour in exploring the potential of OOP in game creation. Through this report, we aim to provide a comprehensive overview of the project, from its conception to its current state, highlighting the pivotal role of OOP in shaping the architecture and functionality of the game engine. Our journey through the design and implementation of this engine illuminates the path for future developments, offering insights and learnings that could benefit other projects within the realm of game development.\nGame Screenshots\nHomepage\n\n\n\nHomepage\n\n\nGame page\n\n\n\nGameplay"
   },
   {
     "objectID": "Games.html",
@@ -19,5 +19,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#profile",
+    "href": "index.html#profile",
+    "title": "My Quarto Profile Assignment",
+    "section": "",
+    "text": "Leslie\nYear 1 student of Applied Artificial Intelligence\nSingapore Institute of Technology"
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "My Quarto Profile Assignment",
+    "section": "",
+    "text": "I have start playing rubik’s cube from 8 years old\n\n\n\n\n\n\n\n3x3\n\n\n\n4x4\n\n\n\n5x5\n\n\n\npyramid\n\n\n\n\n\n\n\nAt this point, gaming is not just one of my hobbies, it is part of my daily life.\nI play alot of games, includes and not limited to card games, Moba, RTS, puzzle games Here are my favorite games for each categories:\n\n\n\n\n\n\n\n\nGame Category\nGame 1\nGame 2\n\n\n\n\nRPG\n\n\n\n\nMOBA\n\n\n\n\nRTS"
+  },
+  {
+    "objectID": "index.html#rubiks-cube",
+    "href": "index.html#rubiks-cube",
+    "title": "My Quarto Profile Assignment",
+    "section": "",
+    "text": "I can play 3x3,4x4,5x5 and pyramid\n\n\n\n\n\n\n\n3x3\n\n\n\n4x4\n\n\n\n5x5\n\n\n\npyramid\n\n\n\n\n\n\nAt this point, gaming is not just one of my hobbies, it is part of my daily life.\nI play alot of games, includes and not limited to card games, Moba, RTS, puzzle games Here are my favorite games for each categories:\n\n\n\n\n\n\n\n\nGame Category\nGame 1\nGame 2\n\n\n\n\nRPG\n\n\n\n\nMOBA\n\n\n\n\nRTS"
+  },
+  {
+    "objectID": "Project.html#introduction",
+    "href": "Project.html#introduction",
+    "title": "Bullet hell game for Object Oriented Programming in Java",
+    "section": "",
+    "text": "This report aims to shed light on the development and conceptualization of a game engine designed specifically for a 2D top-down shooter game, utilising the principles of Object-Oriented Programming (OOP). The project’s genesis was inspired by the desire to create a dynamic and engaging game that could be easily modified and extended, embodying the core principles of reusability and modularity that OOP offers. This report will provide an overview of the game engine project, highlighting the significance of OOP in its development process, and outlining the features and functionalities that have been incorporated to support the envisioned game idea.\nThe inception of this game engine project was driven by the ambition to craft a game that not only entertains but also demonstrates the powerful capabilities of OOP in game development. A 2D top-down shooter game presents a unique set of challenges and requirements, from managing game states to handling complex interactions between various game elements. The game engine is thus designed to address these needs, facilitating a seamless and immersive gaming experience. By leveraging OOP principles, the engine is structured around objects representing game entities, behaviours, and environments, allowing for a high degree of flexibility and scalability in game design and development.\nThe importance of OOP in this context cannot be overstated. OOP provides a framework for organising code in a way that is both intuitive and efficient, enabling developers to create systems that are easier to debug, maintain, and expand upon. For a game engine,\nTherefore, the development of this game engine represents a significant endeavour in exploring the potential of OOP in game creation. Through this report, we aim to provide a comprehensive overview of the project, from its conception to its current state, highlighting the pivotal role of OOP in shaping the architecture and functionality of the game engine. Our journey through the design and implementation of this engine illuminates the path for future developments, offering insights and learnings that could benefit other projects within the realm of game development.\nGame Screenshots\nHomepage\n\n\n\nHomepage\n\n\nGame page\n\n\n\nGameplay"
   }
 ]
