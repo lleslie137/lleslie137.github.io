@@ -1,13 +1,10 @@
 ---
-title: "Profile"
+title: "My Quarto Page"
+author: "Your Name"
+date: "2024-05-14"
+output: html_document
 ---
 
-This is a Quarto website.
+# Welcome to My Quarto Page
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-testing 123
+This is a sample Quarto document.

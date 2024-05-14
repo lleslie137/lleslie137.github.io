@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Profile",
+    "title": "My Quarto Page",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\ntesting 123"
+    "text": "Welcome to My Quarto Page\nThis is a sample Quarto document."
   },
   {
     "objectID": "about.html",
