@@ -1,14 +1,34 @@
 ---
-title: "My Quarto Page"
-author: "Your Name"
+title: "My Quarto Profile Assignment"
+author: "Leslie"
 date: "2024-05-14"
-output: html_document
 ---
 
 # Welcome to My Quarto Page
+##Profile
 
- 
-(![](images/Plane.png)
-Leslie
-Year 1 student of Applied Artificial Intelligence
+
+Leslie 
+
+Year 1 student of Applied Artificial Intelligence 
+
 Singapore Institute of Technology
+
+
+
+##Hobbies
+
+###Gaming
+
+
+At this point, gaming is not just one of my hobbies, it is part of my daily life. 
+I play card games, Moba, RTS, puzzle games
+#### Game Categories and Icons
+
+Here are some game categories and their respective icons:
+
+| Game Category    | Game 1                     | Game 2                     |
+|------------------|----------------------------|----------------------------|
+| **RPG**          | ![Genshin](images/gi.png){width=256 height=256}     | ![Perfect World](images/pw.png){width=256 height=256}     |
+| **MOBA**         | ![Dota](images/dota.png){width=256 height=256}| ![Mobile Legend](images/ml.jpg){width=256 height=256}|
+| **RTS**          | ![Warcraft III](images/w3c.jpeg){width=256 height=256}|![Starcraft2](images/sc2.jpg){width=256 height=256}|
